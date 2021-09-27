@@ -1,6 +1,6 @@
 {
-	"name": "Zero21",
-	"short_name": "Zero21",
+	"name": "Zero21 Solitaire",
+	"short_name": "Zero21 Solitaire",
 	"description": "Zero21 Solitaire",
 	"start_url": "index.html",
 	"display": "fullscreen",
